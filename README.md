@@ -23,6 +23,9 @@ Containerize the code using a Dockerfile. The Dockerfile should be built eachtim
 Once the website is buillt, design a test case that will basically check if the website can be opened or not. If yes, the test should pass.
 
 Define the tasks above in a Jenkins pipleine with the following jobs
+
 job1: Build the website
+
 job2:Test
+
 job3: Push to production
